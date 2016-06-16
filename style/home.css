@@ -1,0 +1,92 @@
+a{text-decoration: none;}
+a:hover{color: #CC0000;}
+a:link {color: #733C29;}
+a:visited {color: #733C29;}
+body {
+background:url(/src/wall.jpg);
+background-attachment: fixed;
+background-size: 100%;
+padding-left: 16%;
+padding-right: 16%;
+font-family: "Calibri";
+font-size: 9pt;
+color: #733C29;
+text-decoration: none;
+scrollbar-face-color: #f7fef6;
+scrollbar-highlight-color: #003366;
+scrollbar-shadow-color: #003366;
+scrollbar-3dlight-color: #f7fef6;
+scrollbar-arrow-color: #ff0000;
+scrollbar-track-color: #f7fef6;
+scrollbar-darkshadow-color: #cdcbe2;
+}
+button {
+font-size: 9pt;
+height: 20px; 
+}
+#time_stamp {
+   text-align: right;
+   color: #222222;
+   font-size: 18px;
+}
+.table_item_name {
+	font-size: 14px;
+	font-family: "Calibri";
+	font-style: italic;
+    color: #333333;
+}
+.table_item {
+    max-width: 30ch;
+    font-size: 14px;
+	font-family: "Calibri";
+    font-style: "italic";
+    color: #aa3333;
+}
+#searchtext {
+    max-width: 30ch;
+}
+.tail {
+	font-family: "Arial";
+	font-size: 12px;
+	color: #3e3e3e;
+	text-align: center;
+}
+#body {
+    height: 480px;
+}
+#body_left {
+    width: 45%;
+    height: 98%;
+    float:left;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+#body_right {
+    width: 55%;
+    height: 98%;
+    float:left;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+#profiletbl {
+    background-color: #e0e0e0;
+    border:1px #989797 solid;
+    margin:0 auto;
+    width: 90%;
+    height: 93%;
+}
+#profilectl {
+    margin:0 auto;
+    width: 90%;
+}
+#friendarea {
+    overflow-x: auto;
+    overflow-y: scroll;
+    height: 330px;
+}
+.error {
+	font-family: "Courier New";
+	font-size: 12px;
+	color: #FF0000;
+	text-align: center;
+}

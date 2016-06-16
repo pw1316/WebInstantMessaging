@@ -1,0 +1,175 @@
+TABLE {
+	FONT-SIZE: 12px; COLOR: #1c3847; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #1c3847; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #003366; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: underline
+}
+.bg-left {
+	BACKGROUND-POSITION: 50% top; BACKGROUND-IMAGE: url(../images/i2_14.gif); BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #98aab6
+}
+.bg-middle {
+	BACKGROUND-POSITION: 50% top; BACKGROUND-IMAGE: url(../images/v-rss_16.gif); BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #e2e6e7
+}
+.light {
+	FONT-SIZE: 12px; COLOR: #dae5e9; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.light:link {
+	FONT-SIZE: 12px; COLOR: #dae5e9; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.light:visited {
+	FONT-SIZE: 12px; COLOR: #dae5e9; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.light:hover {
+	FONT-SIZE: 12px; COLOR: #dae5e9; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: underline
+}
+.input-ulogin {
+	BORDER-RIGHT: #4c5a62 1px solid; BORDER-TOP: #4c5a62 1px solid; BORDER-LEFT: #4c5a62 1px solid; WIDTH: 92px; BORDER-BOTTOM: #4c5a62 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: #dae5e9
+}
+.input-elogin {
+	BORDER-RIGHT: #4c5a62 1px solid; BORDER-TOP: #4c5a62 1px solid; BORDER-LEFT: #4c5a62 1px solid; WIDTH: 92px; BORDER-BOTTOM: #4c5a62 1px solid; HEIGHT: 20px; BACKGROUND-COLOR: #dbe9da
+}
+.link-21 {
+	FONT-SIZE: 12px; COLOR: #1c3847; LINE-HEIGHT: 21px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.link-21:link {
+	FONT-SIZE: 12px; COLOR: #1c3847; LINE-HEIGHT: 21px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.link-21:visited {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 21px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.link-21:hover {
+	FONT-SIZE: 12px; COLOR: #003366; LINE-HEIGHT: 21px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: underline
+}
+.wsdc-q {
+	FONT-SIZE: 12px; COLOR: #ac6900; LINE-HEIGHT: 16px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+.input-yzm {
+	BORDER-RIGHT: #4c5a62 1px solid; BORDER-TOP: #4c5a62 1px solid; BORDER-LEFT: #4c5a62 1px solid; WIDTH: 50px; BORDER-BOTTOM: #4c5a62 1px solid; HEIGHT: 21px; BACKGROUND-COLOR: #dae5e9
+}
+.wsbs-a {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: "Calibri"
+}
+.bg-twbd {
+	BORDER-RIGHT: #cccccc 1px; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px; BORDER-BOTTOM: #cccccc 1px; BACKGROUND-COLOR: #f6f6f6
+}
+.gray-9 {
+	FONT-SIZE: 12px; COLOR: #999; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.gray-9:link {
+	FONT-SIZE: 12px; COLOR: #999; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.gray-9:visited {
+	FONT-SIZE: 12px; COLOR: #999; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.gray-9:hover {
+	FONT-SIZE: 12px; COLOR: #036; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: underline
+}
+.bg-zx-01 {
+	BORDER-RIGHT: #93a3ac 1px solid; BORDER-TOP: #93a3ac 1px; BORDER-LEFT: #93a3ac 1px solid; BORDER-BOTTOM: #93a3ac 1px; BACKGROUND-COLOR: #f6f6f6
+}
+.bg-zx-02 {
+	BACKGROUND-POSITION: right bottom; BACKGROUND-IMAGE: url(../images/i2_180.gif); BACKGROUND-REPEAT: no-repeat
+}
+.deepred {
+	FONT-SIZE: 12px; COLOR: #933; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.deepred:link {
+	FONT-SIZE: 12px; COLOR: #933; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.deepred:visited {
+	FONT-SIZE: 12px; COLOR: #933; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.deepred:hover {
+	FONT-SIZE: 12px; COLOR: #cc3300; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: underline
+}
+.bg-kstd {
+	BORDER-RIGHT: #d6dde2 1px solid; BORDER-TOP: #d6dde2 1px; BORDER-LEFT: #d6dde2 1px solid; BORDER-BOTTOM: #d6dde2 1px
+}
+.select-links {
+	FONT-SIZE: 12px; WIDTH: 138px; COLOR: #ffffff; FONT-FAMILY: "Calibri"; HEIGHT: 20px; BACKGROUND-COLOR: #92a7b7; TEXT-DECORATION: none
+}
+.orange {
+	FONT-SIZE: 12px; COLOR: #ffcc33; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.orange:link {
+	FONT-SIZE: 12px; COLOR: #ffe495; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.orange:visited {
+	FONT-SIZE: 12px; COLOR: #ffcc33; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: none
+}
+A.orange:hover {
+	FONT-SIZE: 12px; COLOR: #ffcc33; LINE-HEIGHT: 18px; FONT-FAMILY: "Calibri"; TEXT-DECORATION: underline
+}
+.bg-zt {
+	BACKGROUND-POSITION: 50% top; BACKGROUND-IMAGE: url(../images/1019_06.gif); BACKGROUND-REPEAT: repeat-x
+}
+.title22 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; LINE-HEIGHT: 22px; FONT-STYLE: normal; FONT-FAMILY: "Calibri"; LETTER-SPACING: 0px; TEXT-ALIGN: center
+}
+.BoxEdg1 {
+	BORDER:1px #00CCFF solid;
+}
+.BoxTou1 {
+	FONT-WEIGHT: bold; COLOR:#FFFF88; FONT-SIZE: 16px;
+	FONT-STYLE: normal; FONT-FAMILY: "Courier New";
+	TEXT-ALIGN: center;
+	LINE-HEIGHT: 22px;
+	LETTER-SPACING: 0px;
+	BACKGROUND-COLOR: #989797; BORDER-BOTTOM:1px #00FF00 solid; HEIGHT: 20px;
+}
+.BoxEdg2 {
+	BORDER:1px #2222FF solid;
+}
+.BoxTou2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px;
+	FONT-STYLE: normal; FONT-FAMILY: "Courier New";
+	TEXT-ALIGN: center;
+	LINE-HEIGHT: 22px;
+	LETTER-SPACING: 0px;
+	BACKGROUND-COLOR: #989797; BORDER-BOTTOM:1px #00FF00 solid; HEIGHT: 20px;
+}
+.TitleM {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px;
+	FONT-STYLE: normal; FONT-FAMILY: "Courier New";
+	TEXT-ALIGN: center;
+}
+.TitleN {
+	FONT-SIZE: 12px; COLOR: #0000FF;
+	FONT-STYLE: normal; FONT-FAMILY: "Calibri";
+	TEXT-ALIGN: center;
+}
+.TitleK {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px;
+	FONT-STYLE: normal; FONT-FAMILY: "Courier New";
+}
+
+.table_title {
+	font-size: 18px;
+	font-family: "Calibri";
+	font-weight: bold;
+	text-align: center;
+}
+.table_item_name {
+	font-size: 14px;
+	font-family: "Calibri";
+	font-style: italic;
+}
+.error {
+	font-family: "Courier New";
+	font-size: 12px;
+	color: #FF0000;
+	text-align: center;
+}
+
+.tail {
+	font-family: "Arial";
+	font-size: 12px;
+	color: #3e3e3e;
+	text-align: center;
+}

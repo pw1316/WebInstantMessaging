@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="en-us">
+    <title>Long May The Sunshine!</title>
+    <link rel="stylesheet" type="text/css" href="/style/main.css">
+    <script type="text/javascript" src="/code/main.js"></script>
+    <script></script>
+</head>
+<body style="background:url(/src/wall.jpg);background-attachment: fixed;background-size: 100%;">
+<div style="width: 98%;height: 80%;">
+<div style="float: left;width: 45%;height: 100%;">
+<div style="text-align: center"><img src="/src/Info.png" width="70%"></div>
+<form id="form" name="form" method="POST" action="/code/login.php">
+<table cellspacing="1" cellpadding="1" bgcolor="#e0e0e0" style="border:1px #989797 solid;margin:0 auto;">
+    <tr><td colspan="2" class="table_title">Login</td></tr>
+    <tr><td class="table_item_name">E-mail</td><td><input id="login_email" name="login_email" type="text" value=""></td></tr>
+    <tr><td class="table_item_name">Password</td><td><input id="login_passwd" name="login_passwd" type="password" value=""></td></tr>
+    <tr><td colspan="2"><hr/></td></tr>
+    <tr><td colspan="2" class="table_title">Register</td></tr>
+    <tr><td class="table_item_name">E-mail</td><td><input id="reg_email" name="reg_email" type="text" value="" title="Your e-mail address.no more than 30 characters" onblur="checkEMAIL()"></td></tr>
+    <tr><td id="reg_email_error_msg" class="error" colspan="2">&nbsp</td></tr>
+    <tr><td class="table_item_name">User Name</td><td><input id="reg_uname" name="reg_uname" type="text" value="" title="Your uname,starts with letter and contains letters,digits or underline.no more than 15 characters" onblur="checkNAME()"></td></tr>
+    <tr><td id="reg_uname_error_msg" class="error" colspan="2">&nbsp</td></tr>
+    <tr><td class="table_item_name">Password</td><td><input id="reg_passwd" name="reg_passwd" type="password" value="" title="Your password,alphabets and numbers allowed,length between 4-16" onkeyup="checkPASS()"></td></tr>
+    <tr><td id="reg_passwd_error_msg" class="error" colspan="2">&nbsp</td></tr>
+    <tr><td class="table_item_name">Confirm</td><td><input id="reg_passwd_retype" name="reg_passwd_retype" type="password" value="" title="re-type your password" onkeyup="checkPASS_AGAIN()"></td></tr>
+    <tr><td id="reg_passwd_retype_error_msg" class="error" colspan="2">&nbsp</td></tr>
+    <tr><td colspan="2"><hr/></td></tr>
+    <tr><td colspan="2" align="center">
+        <input id="login_sub" name="login_sub" type="button" value="Login" onclick="checkLOGIN()">
+        <input id="forget_sub" name="forget_sub" type="button" value="Foget The Password?" onclick="checkFORGET()">
+        <input id="register_sub" name="register_sub" type="button" value="Register" onclick="checkREGISTER()">
+    </td></tr>
+    </table>
+</form>
+</div>
+<div style="float: left;width: 55%;height: 100%;text-align: center;">
+<a href="/index.html"><img src="/src/Artorias1.jpg" width="60%"></a>
+</div>
+</div>
+<div id="tail" style="clear:both;text-align:center">
+ <hr/>
+ <div class="tail">CopyLeft© 2016-2016 GPA4.3,All Rights Not Reserved</div>
+</div>
+</body>
+</html>
